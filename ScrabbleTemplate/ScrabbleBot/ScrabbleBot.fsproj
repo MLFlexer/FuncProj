@@ -7,13 +7,13 @@
     <Company>IT University of Copenhagen</Company>
     
     <Version>1.0.0</Version>
-    <PackageId>YourIdGoesHere</PackageId>
-    <AssemblyName>YourIdGoesHere</AssemblyName>
-    <Authors>Your names go here (optional since this is hosted in a public Github repository)</Authors>
-    <Product>The bot name goes here</Product>
+    <PackageId>mojbot</PackageId>
+    <AssemblyName>mojbot</AssemblyName>
+    <Authors>Malthe Larsen, Oliver Nord, Jens Birk</Authors>
+    <Product>mojbot</Product>
     <Description>Scrabble Bot for Functional Programming 2022
 
-Group name: &lt;Your group name goes here&gt; (optional since this is hosted in a public Github repository)</Description>
+Group name: &lt;moj&gt;</Description>
   </PropertyGroup>
 
   <ItemGroup>

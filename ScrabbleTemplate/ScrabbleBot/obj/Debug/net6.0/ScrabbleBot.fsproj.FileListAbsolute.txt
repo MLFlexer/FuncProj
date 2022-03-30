@@ -1,0 +1,8 @@
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\bin\Debug\net6.0\mojbot.deps.json
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\bin\Debug\net6.0\mojbot.dll
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\bin\Debug\net6.0\mojbot.pdb
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\obj\Debug\net6.0\ScrabbleBot.fsproj.AssemblyReference.cache
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\obj\Debug\net6.0\ScrabbleBot.AssemblyInfoInputs.cache
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\obj\Debug\net6.0\ScrabbleBot.AssemblyInfo.fs
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\obj\Debug\net6.0\mojbot.dll
+C:\Users\mlars\Desktop\Func\FuncProj\ScrabbleTemplate\ScrabbleBot\obj\Debug\net6.0\mojbot.pdb
